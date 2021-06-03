@@ -15,8 +15,6 @@ function main(currentTime) {
 
 	lastTimeRendered = currentTime;
 
-	console.log(lastTimeRendered);
-
 	update();
 
 	draw();
